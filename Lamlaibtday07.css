@@ -1,0 +1,42 @@
+.row_contact{
+	color: #B5B5B5;
+}
+.action{
+	background-color: #66CDAA;
+	border-radius: 10px;
+}
+/*{
+	background-color: gray;
+}*/
+
+.line{
+	background-color: #E8E8E8;
+}
+.content_images {
+	background-color: #2F4F4F;
+}
+
+.row1 {
+	color: #ffffff;
+	text-align: center;
+	margin-top: 15px;
+}
+
+.row2 {
+	color: #ffffff;
+	text-align: center;
+}
+
+.row3 {
+	color: #ffffff;
+	text-align: center;
+}
+
+.row_footer {
+	color : #B5B5B5;
+}
+.active1{
+	background-color: lightgreen;
+	border-radius: 10px;
+}
+
